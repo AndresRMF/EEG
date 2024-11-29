@@ -1,5 +1,6 @@
 # CLASIFICACIÓN DE PREFERENCIA DE TIPOS DE CAMISAS Y SWEATERS A PARTIR  DE SEÑALES EEG PRODUCIDAS POR ESTÍMULOS VISUALES
-Trabajo de grado - *Andres Felipe Marin Ramirez*
+Trabajo de grado - *Andres Felipe Marin Ramirez* 
+Estudiantes de Ingenieria electronica de la Universidad del Valle, Colombia.
 
 Este repositorio tiene como objetivo brindar los codigos con los que se obtuvieron los resultados del trabajo de grado presentado.
 Los codigo estan presentados de manera general y a manera de ejemplo, los diferentes resultados son la implementacion de estos algoritmos con los diferentes datasets generados en el procesamiento.
